@@ -1,5 +1,5 @@
-### Hey There! I'm Benjamin 👋
-A Software engineer interested in building web applications..
+### Hey There! I'm Benjamin 😎
+A Software Engineer who enjoys turning complex problems into simple, beautiful, and intuitive solutions.
 
 <!--
 **bencoderus/bencoderus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
