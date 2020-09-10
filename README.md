@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey There! I'm Benjamin 👋
+A Software engineer interested in building web applications..
 
 <!--
 **bencoderus/bencoderus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
